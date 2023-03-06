@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Sou estudante em Análise e Desenvolvimento de Sistemas pela Unisinos (2021 - ANDAMENTO), sou formado em técnico de Nutrição e Dietética pela Unipacs (2019 - 2021).<br>Na área de programação meu foco está sendo em Javascript, CSS3, HTML5 e React para me tornar frontend dev.<br>Possuo grande ambição em aprender novas tecnologias. Estou em busca de aperfeiçoar e conquistar novas habilidades constantemente.</p>
+<p align="left">Sou estudante em Análise e Desenvolvimento de Sistemas pela Unisinos (2021 - ANDAMENTO), sou formado em técnico de Nutrição e Dietética pela Unipacs (2019 - 2021).<br>Na área de programação meu foco está sendo em Javascript, CSS3, HTML5 e React para me tornar Front-end dev.<br>Possuo grande ambição em aprender novas tecnologias. Estou em busca de aperfeiçoar e conquistar novas habilidades constantemente.</p>
 
 ###
 
@@ -42,7 +42,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/kaue-da-hora-831487199" target="_blank">
+  <a href="https://www.linkedin.com/in/kau%C3%AA-da-hora-831487199" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/therealkaue" target="_blank">
