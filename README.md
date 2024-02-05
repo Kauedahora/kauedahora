@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou estudante em Análise e Desenvolvimento de Sistemas pela Unisinos (2021 - ANDAMENTO), sou formado em técnico de Nutrição e Dietética pela Unipacs (2019 - 2021).<br>Na área de programação meu foco está sendo em Javascript, Next.Js, TypeScript, Node.Js e React para me tornar Front-End Dev.<br>Possuo grande ambição em aprender novas tecnologias. Estou em busca de aperfeiçoar e conquistar novas habilidades constantemente.</p>
+<p align="left">Sou estudante em Análise e Desenvolvimento de Sistemas pela Unisinos (2021 - ANDAMENTO), sou formado em Nutrição e Dietética pela Unipacs (2019 - 2021).<br>Na área de programação meu foco está sendo em Javascript, Next.Js, TypeScript, Node.Js e React para me tornar Front-End Dev.<br>Possuo grande ambição em aprender novas tecnologias. Estou em busca de aperfeiçoar e conquistar novas habilidades constantemente.</p>
 
 ###
 
